@@ -1,0 +1,20 @@
+{
+  "name": "introducao-pratica-typescript",
+  "version": "1.0.0",
+  "description": "Exercício desenvolvido durante o curso de introdução pratica de TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "Micael Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
